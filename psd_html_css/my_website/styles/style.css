@@ -1,0 +1,26 @@
+/* Hand crafted CSS
+	by: artismarti
+
+	Colours
+	=======
+
+	Black: #000000
+	Darker Gray: #222222
+	Dark Gray: #333333
+	Gray: #444444
+	Light Gray: #eeeeee
+	Light Blue: #00c0ff
+	Dark Blue: #0090bf
+*/
+
+html {
+	-webkit-font-smoothing: antialiased;
+	text-rendering:optimizelegibility;
+}
+
+body {
+	font-size: 14px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 20px;
+	color: #444444;
+}
